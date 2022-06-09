@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1c053084-ffe2-4b8a-a57c-6ffd4fb530e1" name="Changes" comment="Добавил пакеты, интерфейсы, классы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/Transport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/social/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/social/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/social/Trolleybus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/social/Trolleybus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/steam/SteamBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/steam/SteamBoat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/steam/SteamTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/steam/SteamTrain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/war/Fjet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/war/Fjet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trans/war/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/war/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trans/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trans/steam/Steam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/steam/Steam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trans/war/War.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trans/war/War.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,6 +40,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trans.Main" />
+      <module name="StepikTransport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
